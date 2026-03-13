@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+code {
+    white-space: pre;
+}
+
+h1 {
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+textarea {
+    height: 60vh;
+    width: auto;
+}
+
+.main {
+    padding: 10px;
+}
+
+.search {
+    width: 100%;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+.sidebar {
+    background-color: #f0f0f0;
+    height: 100vh;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    margin-top: 5px;
+}
+
+
+.title-input {
+    width: 100%;
+    height: auto;
+}
+
+.search-box {
+    width: 300px;
+    height: 35px;
+}
+
+.text-area {
+    width: 100%;
+    min-height: 300px;
+}
+
